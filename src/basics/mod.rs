@@ -1,4 +1,5 @@
 pub mod arrays;
+pub mod cli;
 pub mod conditionals;
 pub mod enums;
 pub mod formatting;

@@ -1,4 +1,4 @@
 mod basics;
 fn main() {
-    basics::enums::run();
+    basics::cli::run();
 }
